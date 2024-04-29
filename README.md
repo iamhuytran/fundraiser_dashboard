@@ -8,6 +8,12 @@ https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard1_of_2/Da
 https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard2_of_2/Dashboard2
 
 ## Features
+
+- **Wireframing:** This was done in Figma. There, we designed the layout of the dashboard as well as the navigation flow between graphs, tabs, and drillthrough pages.
+
+<img width="541" alt="image" src="https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/30b9c393-8588-48fe-a911-3c15a2a0d5c5">
+
+
 - **Geographical Analysis:** The dashboard includes a heat map visualization to illustrate the geographic distribution of donors. This feature helps identify regions with the highest donor concentration and visualize the distribution of donation amounts across different locations.
 
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/188885b7-a752-40a4-b314-9b94622ac030)
