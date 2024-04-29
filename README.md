@@ -1,5 +1,10 @@
 # Fundraising Dashboard in Tableau
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#Features)
+3. [Planning Steps]
+
 ## Overview
 This repository hosts a fundraising dashboard created using Tableau. The dashboard provides valuable insights into donor geography and their donation amounts, facilitating better planning for next year's fundraising event. Leveraging interactive features such as a heat map and drill-through functionality, this dashboard enables users to analyze donor behavior and historical donation trends effectively.
 
