@@ -29,7 +29,7 @@ https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard2_of_2/Da
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/188885b7-a752-40a4-b314-9b94622ac030)
 
 
-- **Donation Amounts:** We also analyzed the donated amounts from various geographical regions using the heat map as well as the the amount of donors form different income level. By hovering over specific regions, they can view detailed information about the donation amounts contributed by donors from that area.
+- **Donation Amounts:** We also analyzed the donated amounts from various geographical regions using the heat map as well as the the amount of donors from different income level. By hovering over specific regions, they can view detailed information about the donation amounts contributed by donors from that area.
 
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/d124aa51-d978-4a4d-97ae-17a27526f206)
 
