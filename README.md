@@ -24,6 +24,8 @@ https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard2_of_2/Da
 
 <img width="465" alt="image" src="https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/76aab342-50d5-49e8-b86c-e4fe8fa642a8">
 
+![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/21ade155-bbc3-4b57-abab-0adde984fde3)
+
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/c2a2d6ad-80fe-4c75-90f7-689403467674)
 
 
