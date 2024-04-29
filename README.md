@@ -14,16 +14,6 @@ https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard2_of_2/Da
 
 ## Features
 
-- **Planning:** This was drafted in a google document where the KPIs and variables that require closer examinations are picked. In addition, the dashboard also take into ocnsideration metrics that are useful for the audience.
-
-![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/51c735e4-aa1b-4e4d-b8fe-3a88b7c78052)
-
-![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/6e5ae90b-b70d-4870-a667-55fb1ef4f898)
-
-![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/99243a0a-bf24-441a-b8d0-b8277379057e)
-
-
-
 - **Wireframing:** This was done in Figma. There, we designed the layout of the dashboard as well as the navigation flow between graphs, tabs, and drillthrough pages.
 
 ![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/add459e2-5a74-4982-b36f-8f3aa96a4752)
@@ -48,6 +38,19 @@ https://public.tableau.com/app/profile/huy8780/viz/FundraisingDashboard2_of_2/Da
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/21ade155-bbc3-4b57-abab-0adde984fde3)
 
 ![image](https://github.com/iamhuytran/fundraiser_dashboard/assets/102829980/c2a2d6ad-80fe-4c75-90f7-689403467674)
+
+
+## Planning Steps
+
+- **Planning:** This was drafted in a google document where the KPIs and variables that require closer examinations are picked. In addition, the dashboard also take into ocnsideration metrics that are useful for the audience.
+
+![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/51c735e4-aa1b-4e4d-b8fe-3a88b7c78052)
+
+![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/6e5ae90b-b70d-4870-a667-55fb1ef4f898)
+
+![image](https://github.com/iamhuytran/fundraiser_dashboard_tableau/assets/102829980/99243a0a-bf24-441a-b8d0-b8277379057e)
+
+
 
 
 
